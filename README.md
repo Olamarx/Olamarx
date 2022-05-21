@@ -14,7 +14,7 @@ const olamarx = {
 
 I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-👤 **Reach me**
+👤 **Owoeye Olaoluwa (Olamarx)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
 [![Gmail Badge](https://img.shields.io/badge/-olaoluwaowoeye@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olaoluwaowoeye@gmail.com)](mailto:olaoluwaowoeye@gmail.com)
@@ -46,8 +46,13 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+### Interesting stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=olamarx&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&hide=TeX&layout=compact)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=olamarx&show_icons=true&theme=algolia" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&layout=compact&theme=algolia&langs_count=3" />
+### Time I spent coding this week:
+<div align="center">
+<img height="400px" src="https://wakatime.com/share/@olamarx/ce512b16-8670-4540-8b2d-8cee5b067f82.svg" align="center" />
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
