@@ -50,9 +50,9 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=olamarx&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&hide=TeX&layout=compact)
 
-### Time I spent coding this week:
+<!-- ### Time I spent coding this week:
 <div align="center">
 <img height="400px" src="https://wakatime.com/share/@olamarx/ce512b16-8670-4540-8b2d-8cee5b067f82.svg" align="center" />
-</div>
+</div> -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
