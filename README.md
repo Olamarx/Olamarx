@@ -47,8 +47,8 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ### Interesting stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=olamarx&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&hide=TeX&layout=compact)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=olamarx&show_icons=true&theme=algolia" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&layout=compact&theme=algolia&langs_count=3" />
 
 <!-- ### Time I spent coding this week:
 <div align="center">
