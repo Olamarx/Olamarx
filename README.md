@@ -37,4 +37,4 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=olamarx&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
