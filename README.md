@@ -4,10 +4,10 @@ I am a software engineer.
 
 ```javascript
 const olamarx = {
-  pronouns: ["he", "him"],
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, JavaScript, Jest, React, Ruby],
-  challenge: "I always want to get better at every programming language I learn.",
+  pronouns: ['he', 'him'],
+  lookingFor: 'Front-end developer' || 'Full-stack web developer',
+  code: ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Ruby'],
+  challenge: 'I always want to get better at every programming language I learn.',
   funFacts: ['I love music.']
 }
 ```
