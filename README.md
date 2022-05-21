@@ -1,20 +1,20 @@
-# Hi there, I'm Olamarx 👋
+# Hi there 👋, I'm Owoeye Olaoluwa, popularly known as Olamarx👨🏽‍💼.
 
-I am a software engineer.
+I am a software engineer 💻.
 
 ```javascript
 const olamarx = {
-  pronouns: ['he', 'him'],
+  pronouns: ['he', 'him', '🧑'],
   lookingFor: 'Front-end developer' || 'Full-stack web developer',
   code: ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Ruby'],
   challenge: 'I always want to get better at every programming language I learn.',
-  funFacts: ['I love music.']
+  funFacts: ['I love music 🎼.']
 }
 ```
 
-I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-👤 **Reach me:**
+👤 **Reach me 📡:**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olaoluwaowoeye@gmail.com)](mailto:olaoluwaowoeye@gmail.com)
