@@ -11,7 +11,7 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 
 [![Linkedin Badge](https://img.shields.io/badge/-Olaoluwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
 [![Gmail Badge](https://img.shields.io/badge/-olaoluwaowoeye@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olaoluwaowoeye@gmail.com)](mailto:olaoluwaowoeye@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Owoeye Olaoluwa-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/olaoluwa.owoeye.39/)](https://web.facebook.com/olaoluwa.owoeye.39)
+[![Facebook Badge](https://img.shields.io/badge/Owoeye.Olaoluwa-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://web.facebook.com/olaoluwa.owoeye.39/)](https://web.facebook.com/olaoluwa.owoeye.39)
 
 
 ## ⚡ Technologies
