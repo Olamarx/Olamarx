@@ -9,7 +9,7 @@ I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
 - Facebook: [Facebook](https://web.facebook.com/olaoluwa.owoeye.39)
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
+[![Linkedin Badge](https://img.Olaoluwa.io/badge/-Olaoluwa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)](https://www.linkedin.com/in/olaoluwa-owoeye-617702162/)
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
