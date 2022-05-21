@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Olamarx 👋
+
+I am a software engineer.
+
+```javascript
+const olamarx = {
+  pronouns: ["he", "him"],
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [HTML, CSS, JavaScript, Jest, React, Ruby],
+  challenge: "I always want to get better at every programming language I learn.",
+  funFacts: ['I love music.']
+}
+```
 
 I am Olaoluwa Owoeye, currently schooling at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
