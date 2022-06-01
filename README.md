@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Owoeye Olaoluwa, popularly known as Olamarx👨🏽‍💼.
 
-I am a software engineer 💻 with open arms to opportunities.
+I am a software engineer 💻 with open arm to opportunities.
 
 ```javascript
 const olamarx = {
