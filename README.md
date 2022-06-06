@@ -11,6 +11,7 @@ const olamarx = {
   funFacts: ['I love music 🎼.']
 }
 ```
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
 
 Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
 
@@ -58,5 +59,3 @@ Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https:
 <div align="center">
 <img height="400px" src="https://wakatime.com/share/@49712287-3b1e-4448-b295-ea5649949543/487b761b-71db-4ff2-9b6f-0a5d0b520b49.png" align="center" />
 </div>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
