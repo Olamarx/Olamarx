@@ -6,9 +6,14 @@ I am a software engineer 💻 with open arm to opportunities.
 const olamarx = {
   pronouns: ['he', 'him', '🧑'],
   lookingFor: 'Front-end developer' || 'Full-stack web developer',
-  code: ['HTML', 'CSS', 'JavaScript', 'Jest', 'React', 'Ruby'],
+  technologies: {
+       frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js', 'Ruby on rails'],
+       databases: ['SQL', 'PHP'],
+       dev/prod/test: ['Webpack', 'Jest'],
+       versionControl: ['GIT', 'GitHub']
+    }
   challenge: 'I always want to get better at every programming language I learn.',
-  funFacts: ['I love music 🎼.']
+  funFacts: ['I love music 🎼 && food 🎂.']
 }
 ```
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
