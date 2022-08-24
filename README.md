@@ -46,7 +46,7 @@ Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https:
 
 ### Interesting stats:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=olamarx&theme=dark&show_icons=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&layout=compact&theme=algolia&langs_count=6" />
+<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&layout=compact&theme=algolia&langs_count=6" />
 
 
 ### This week's coding time stat:
