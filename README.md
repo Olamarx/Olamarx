@@ -8,7 +8,7 @@ const olamarx = {
   lookingFor: 'Front-end developer' || 'Full-stack web developer',
   technologies: {
        frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js', 'Ruby on rails'],
-       databases: ['SQL', 'PHP'],
+       databases: ['SQL'],
        dev/prod/test: ['Webpack', 'Jest'],
        versionControl: ['GIT', 'GitHub']
     }
