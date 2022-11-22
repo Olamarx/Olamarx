@@ -49,7 +49,7 @@ Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https:
 <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olamarx&layout=compact&theme=algolia&langs_count=6" />
 
 
-### This week's coding time stat:
+<!-- ### This week's coding time stat:
 <div align="center">
 <img height="300px" src="https://wakatime.com/share/@49712287-3b1e-4448-b295-ea5649949543/487b761b-71db-4ff2-9b6f-0a5d0b520b49.png" align="center" />
-</div>
+</div> -->
