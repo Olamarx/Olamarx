@@ -4,11 +4,11 @@ I am a software engineer 💻 with open arm to opportunities.
 
 ```javascript
 const olamarx = {
-  pronouns: ['he', 'him', '🧑'],
-  lookingFor: 'Front-end developer' || 'Full-stack web developer',
+  pronouns: ['he', 'him'],
+  lookingFor: 'Front-end developer',
   technologies: {
-       frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js', 'Ruby on rails'],
-       databases: ['SQL'],
+       frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js'],
+       databases: ['MongoDB', 'Firebase'],
        dev/prod/test: ['Webpack', 'Jest'],
        versionControl: ['GIT', 'GitHub']
     }
