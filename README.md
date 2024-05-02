@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Owoeye Olaoluwa, socially known as Olamarx👨🏽‍💼.
+# Hi there 👋, I'm Owoeye Segun, socially known as Olamarx👨🏽‍💼.
 
 I am a software engineer 💻 with open arm to opportunities.
 
