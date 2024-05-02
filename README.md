@@ -18,7 +18,7 @@ const olamarx = {
 ```
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
 
-Again, I am Olaoluwa Owoeye😂, currently schooling 📚 at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
+Again, I am Segun Owoeye😂, currently schooling 📚 at [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 👤 **Reach me 📡:**
 
