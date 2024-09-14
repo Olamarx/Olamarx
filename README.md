@@ -5,7 +5,7 @@ I am a software engineer 💻 with open arm to opportunities.
 ```javascript
 const olamarx = {
   pronouns: ['he', 'him'],
-  lookingFor: 'Front-end developer',
+  lookingFor: 'Fullstack developer',
   technologies: {
        frameworksLibraries: ['SASS', 'Bootstrap', 'React', 'Node.js'],
        databases: ['MongoDB', 'Firebase'],
