@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Owoeye Segun, socially known as Olamarx👨🏽‍💼.
+# Hi there 👋, I'm Owoeye Olaoluwa, socially known as Olamarx👨🏽‍💼.
 
 I am a software engineer 💻 with open arm to opportunities.
 
@@ -18,7 +18,7 @@ const olamarx = {
 ```
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=olamarx.olamarx)
 
-Again, I am Segun Owoeye😂, a graduate 📚 from [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
+Again, I am Olaoluwa Owoeye😂, a graduate 📚 from [Microverse](https://www.microverse.org/). I am a Full-Stack Web developer and love writing ✍️ clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 👤 **Reach me 📡:**
 
